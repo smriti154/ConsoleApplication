@@ -12,7 +12,7 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("wlcome to app1");
             Console.WriteLine("wlcome to app1 from feature1");
-            Console.WriteLine("wlcome to app1 second change from feature1");
+            Console.WriteLine("wlcome to app1 second change from master");
 
 
         }
