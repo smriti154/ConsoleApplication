@@ -16,7 +16,11 @@ namespace ConsoleApplication2
             Console.WriteLine("Generating conflict from feature1 ");
             Console.WriteLine("Generating conflict from master");
 
+
             Console.WriteLine("chngeeeeeeeeeeeeeeeeeeeee conflict");
+
+
+            Console.WriteLine("chngeeeeeeeeeeeeeeeeeeeee conflict feature");
         }
     }
 }
