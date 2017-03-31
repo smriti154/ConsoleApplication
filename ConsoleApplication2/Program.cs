@@ -14,6 +14,9 @@ namespace ConsoleApplication2
             Console.WriteLine("wlcome to app1 from feature1");
             Console.WriteLine("Generating conflict from feature1 ");
 
+
+
+            Console.WriteLine("chngeeeeeeeeeeeeeeeeeeeee conflict feature");
         }
     }
 }
