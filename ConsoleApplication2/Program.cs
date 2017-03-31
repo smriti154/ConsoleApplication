@@ -21,7 +21,7 @@ namespace ConsoleApplication2
             Console.WriteLine("chngeeeeeeeeeeeeeeeeeeeee conflict");
 
 
-            Console.WriteLine("chngeeeeeeeeeeeeeeeeeeeee conflict feature");
+            Console.WriteLine("chngeeeeeeeeeeeeeeeeeeeee conflict master");
         }
     }
 }
