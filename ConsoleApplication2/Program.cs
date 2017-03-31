@@ -11,6 +11,8 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("wlcome to app1");
+            Console.WriteLine("wlcome to app1 from feature1");
+
         }
     }
 }
