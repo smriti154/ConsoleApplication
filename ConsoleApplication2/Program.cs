@@ -24,5 +24,23 @@ namespace ConsoleApplication2
 
             Console.WriteLine("git gui");
         }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("wlcome to app1");
+            Console.WriteLine("wlcome to app1 from feature1");
+
+            Console.WriteLine("Generating conflict from feature1 ");
+
+
+
+            Console.WriteLine("chngeeeeeeeeeeeeeeeeeeeee conflict");
+
+
+            Console.WriteLine("chngeeeeeeeeeeeeeeeeeeeee conflict feature");
+
+            Console.WriteLine("git gui");
+        }
+
     }
 }
